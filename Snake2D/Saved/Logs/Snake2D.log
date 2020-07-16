@@ -927,3 +927,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.16-09.56.45:686][ 70]AssetCheck: New page: Asset Save: BP_Food
 [2020.07.16-09.56.45:686][ 70]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Food.BP_Food
 [2020.07.16-09.57.01:586][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.07.16-09.58.21:813][981]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.16-09.58.29:054][ 77]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Block.BP_Block
+[2020.07.16-09.59.15:632][363]LogTexture: Display: Building textures: T_greySquare (BGRA8, 32X32)
+[2020.07.16-09.59.19:168][413]BlueprintLog: New page: Compile BP_Block
+[2020.07.16-09.59.19:244][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.07.16-09.59.20:238][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Block" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_Block.uasset" SILENT=true
+[2020.07.16-09.59.20:250][427]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_Block7A6AD8E44168154530AD959A29D68A52.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_Block.uasset'
+[2020.07.16-09.59.20:268][427]AssetCheck: New page: Asset Save: BP_Block
+[2020.07.16-09.59.20:268][427]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Block.BP_Block
+[2020.07.16-09.59.33:187][584]BlueprintLog: New page: Compile BP_Block
+[2020.07.16-09.59.33:263][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.07.16-09.59.34:125][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Block" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_Block.uasset" SILENT=true
+[2020.07.16-09.59.34:140][597]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_BlockE4BB66DF4A3EDA2EB82102885700FB24.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_Block.uasset'
+[2020.07.16-09.59.34:161][597]AssetCheck: New page: Asset Save: BP_Block
+[2020.07.16-09.59.34:161][597]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Block.BP_Block
+[2020.07.16-09.59.41:663][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.07.16-09.59.44:029][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.07.16-09.59.44:050][772]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay121F04DD4A50979684CA5CAF0C7514B0.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-09.59.44:112][772]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-09.59.44:112][772]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
