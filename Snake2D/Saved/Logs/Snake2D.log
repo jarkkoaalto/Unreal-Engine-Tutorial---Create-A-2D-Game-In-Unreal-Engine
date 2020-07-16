@@ -970,3 +970,163 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead10 (BGRA8, 32X32)
 [2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead2 (BGRA8, 32X32)
 [2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead3 (BGRA8, 32X32)
+[2020.07.16-10.06.16:043][249]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.16-10.06.41:782][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.07.16-10.06.41:801][552]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay6BCE06CC492FA47DC4CEB492D64D4553.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-10.06.41:839][552]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-10.06.41:839][552]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-10.07.00:577][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.07.16-10.07.00:594][808]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay7F3BEE594FD8713E4C955EA811B3CB20.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-10.07.00:637][808]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-10.07.00:637][808]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-10.07.09:235][917]LogEditorViewport: Clicking Background
+[2020.07.16-10.07.12:343][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.07.16-10.07.12:359][956]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlayD1149FEE495B082A5C3BD3B38FA16E4D.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-10.07.12:397][956]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-10.07.12:397][956]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-10.07.16:587][ 12]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.07.22:050][ 92]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.07.22:117][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.07.16-10.07.24:901][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-10.07.24:915][135]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGameA523063C4116B9BC7C1CB889D645AB83.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-10.07.24:939][135]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-10.07.24:940][135]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.08.15:079][710]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SCSViewport'
+[2020.07.16-10.08.15:079][710]LogSlate: The tab "SCSViewport" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.09.03:164][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.07.16-10.09.03:177][246]LogMetaData: Removing '/Game/Blueprints/BP_SnakeBodyPart.BP_SnakeBodyPart:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_SnakeBodyPaert.PackageMetaData'
+[2020.07.16-10.09.03:177][246]LogMetaData: Removing '/Game/Blueprints/BP_SnakeBodyPart.SKEL_BP_SnakeBodyPart_C' ref from Metadata '/Game/Blueprints/BP_SnakeBodyPaert.PackageMetaData'
+[2020.07.16-10.09.03:177][246]LogMetaData: Removing '/Game/Blueprints/BP_SnakeBodyPart.BP_SnakeBodyPart_C' ref from Metadata '/Game/Blueprints/BP_SnakeBodyPaert.PackageMetaData'
+[2020.07.16-10.09.03:177][246]LogMetaData: Removing '/Game/Blueprints/BP_SnakeBodyPart.BP_SnakeBodyPart:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_SnakeBodyPaert.PackageMetaData'
+[2020.07.16-10.09.03:177][246]LogMetaData: Removing '/Game/Blueprints/BP_SnakeBodyPart.BP_SnakeBodyPart:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_SnakeBodyPaert.PackageMetaData'
+[2020.07.16-10.09.03:177][246]LogMetaData: Removing '/Game/Blueprints/BP_SnakeBodyPart.BP_SnakeBodyPart:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_SnakeBodyPaert.PackageMetaData'
+[2020.07.16-10.09.03:229][246]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_SnakeBodyPartD2DB3B3A4BCF37E9B34D1A82868380A8.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_SnakeBodyPart.uasset'
+[2020.07.16-10.09.03:631][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.07.16-10.09.03:675][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.16-10.09.03:710][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.07.16-10.09.03:746][246]AssetCheck: New page: Asset Save: BP_SnakeBodyPart
+[2020.07.16-10.09.03:746][246]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_SnakeBodyPart.BP_SnakeBodyPart
+[2020.07.16-10.09.04:740][312]LogEditorViewport: Clicking Background
+[2020.07.16-10.09.07:808][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.07.16-10.09.07:824][354]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay1A263E934FBE26F727A802917B50DB27.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-10.09.07:869][354]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-10.09.07:869][354]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-10.09.13:568][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.07.16-10.09.14:746][589]LogEditorViewport: Clicking Background
+[2020.07.16-10.09.15:094][594]LogEditorViewport: Clicking Background
+[2020.07.16-10.09.41:822][464]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.09.41:886][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.07.16-10.09.42:763][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-10.09.42:778][516]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGame394AB67742041677FA7EB7A538B4ABB1.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-10.09.42:797][516]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-10.09.42:797][516]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.09.45:832][568]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-10.09.45:832][568]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.10.24:438][213]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.10.24:508][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.07.16-10.10.25:423][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-10.10.25:435][249]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGame648B92C8450A60B2141B86947E447386.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-10.10.25:457][249]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-10.10.25:457][249]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.10.25:986][274]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.10.26:050][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.07.16-10.10.29:648][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.07.16-10.10.29:664][375]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay3D37255C405E71F40243118CA611E92C.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-10.10.29:705][375]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-10.10.29:705][375]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-10.10.59:085][735]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-10.10.59:085][735]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.11.21:553][686]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-10.11.21:553][686]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.11.32:666][208]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-10.11.32:666][208]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.12.02:117][659]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-10.12.02:117][659]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.12.19:060][367]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.12.19:125][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.07.16-10.12.19:945][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-10.12.19:960][414]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGameB823D0A6424186785068A3BFFE4DD3F3.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-10.12.19:981][414]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-10.12.19:981][414]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.12.49:286][149]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.12.49:353][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.07.16-10.12.50:249][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-10.12.50:263][185]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGame928F64334C806D14D27782B40F598BFF.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-10.12.50:288][185]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-10.12.50:288][185]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.12.51:884][261]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-10.12.51:884][261]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.13.05:180][840]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.13.05:245][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.07.16-10.13.05:974][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-10.13.05:989][869]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGameD918650C4B00825DE70292A0B3405864.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-10.13.06:013][869]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-10.13.06:014][869]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.13.12:245][165]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.13.12:310][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.07.16-10.13.12:930][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-10.13.12:945][189]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGameAAB507264D740FFD582DEBB517DF8EB5.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-10.13.12:968][189]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-10.13.12:968][189]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.13.16:132][332]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-10.13.16:132][332]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.14.00:403][750]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.14.00:473][750]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.07.16-10.14.01:368][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-10.14.01:384][786]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGame4FDBC08141D2839366DBEBB958266AE6.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-10.14.01:409][786]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-10.14.01:409][786]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.14.05:932][997]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-10.14.05:932][997]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.14.38:859][332]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-10.14.38:924][332]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.07.16-10.14.39:528][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-10.14.39:543][366]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGame2C054DDE48D6CA4A49A6A2B06FA61D47.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-10.14.39:561][366]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-10.14.39:561][366]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-10.14.42:789][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.07.16-10.14.42:806][484]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay212A29E94AA7C07772A60096CCE048F5.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-10.14.42:844][484]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-10.14.42:844][484]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-10.14.52:592][633]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-10.14.52:593][633]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-10.24.42:857][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.07.16-10.24.42:885][870]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay_Auto222E54F81402AF9269F27FA9D71B9C81C.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/Autosaves/Game/Maps/GamePlay_Auto2.umap'
+[2020.07.16-10.24.42:889][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GamePlay' took 0.082
+[2020.07.16-10.24.42:889][870]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.082
+[2020.07.16-10.24.42:889][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_MainGame] ([1] browsable assets)...
+[2020.07.16-10.24.42:889][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainGame]
+[2020.07.16-10.24.42:912][870]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGame_Auto2C15947B74BECE92940FB59A1E5C189CE.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/Autosaves/Game/Blueprints/BP_MainGame_Auto2.uasset'
+[2020.07.16-10.24.42:913][870]LogFileHelpers: Auto-saving content packages took 0.024
+[2020.07.16-14.45.41:098][958]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-14.45.41:165][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.07.16-14.45.50:101][392]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-14.45.50:166][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.07.16-14.45.51:024][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-14.45.51:045][433]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGameB9BFF4E74345B0FED394E1B3F66022E4.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-14.45.51:063][433]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-14.45.51:063][433]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-14.45.53:885][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.07.16-14.45.53:940][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.07.16-14.45.53:958][564]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay9FADFDCB44EA7F1EC128788F344D7798.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-14.45.53:982][564]LogFileHelpers: Saving map 'GamePlay' took 0.080
+[2020.07.16-14.45.53:994][564]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-14.45.53:994][564]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-16.27.27:783][961]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-16.27.27:783][961]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-16.27.42:449][504]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-16.27.42:449][504]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-16.28.23:517][969]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.07.16-16.28.23:517][969]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.07.16-16.28.32:543][361]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-16.28.32:809][361]LogUObjectHash: Compacting FUObjectHashTables data took  10.96ms
+[2020.07.16-16.28.33:653][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-16.28.33:714][394]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGame2C9C516C470957ACE0A67E9344DE776E.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-16.28.33:734][394]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-16.28.33:734][394]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-16.28.43:467][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.07.16-16.28.43:521][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.07.16-16.28.43:542][543]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay58B4F3934B327783DE8756B01B5AACE1.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-16.28.43:570][543]LogFileHelpers: Saving map 'GamePlay' took 0.087
+[2020.07.16-16.28.43:583][543]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-16.28.43:583][543]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
