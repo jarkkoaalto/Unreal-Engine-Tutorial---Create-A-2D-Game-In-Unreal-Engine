@@ -947,3 +947,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.16-09.59.44:050][772]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay121F04DD4A50979684CA5CAF0C7514B0.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
 [2020.07.16-09.59.44:112][772]AssetCheck: New page: Asset Save: GamePlay
 [2020.07.16-09.59.44:112][772]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-10.00.42:636][637]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.16-10.00.58:402][849]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SnakeBodyPaert.BP_SnakeBodyPaert
+[2020.07.16-10.01.12:901][187]BlueprintLog: New page: Compile BP_SnakeBodyPaert
+[2020.07.16-10.01.12:963][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.07.16-10.01.14:052][204]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_SnakeBodyPaertA77ADB124366D895608F0E9A8C7C010C.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_SnakeBodyPaert.uasset'
+[2020.07.16-10.01.14:070][204]AssetCheck: New page: Asset Save: BP_SnakeBodyPaert
+[2020.07.16-10.01.14:070][204]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_SnakeBodyPaert.BP_SnakeBodyPaert
+[2020.07.16-10.01.42:907][674]BlueprintLog: New page: Compile BP_SnakeBodyPaert
+[2020.07.16-10.01.42:974][674]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.07.16-10.01.44:053][691]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_SnakeBodyPaert883E0DFC4174EB48C7FE09A3D8B336F1.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_SnakeBodyPaert.uasset'
+[2020.07.16-10.01.44:073][691]AssetCheck: New page: Asset Save: BP_SnakeBodyPaert
+[2020.07.16-10.01.44:073][691]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_SnakeBodyPaert.BP_SnakeBodyPaert
+[2020.07.16-10.02.03:812][975]LogTexture: Display: Building textures: T_Dead6 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead1 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead11 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead4 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead5 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead7 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead8 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead9 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead10 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead2 (BGRA8, 32X32)
+[2020.07.16-10.02.03:813][975]LogTexture: Display: Building textures: T_Dead3 (BGRA8, 32X32)
