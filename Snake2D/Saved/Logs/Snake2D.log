@@ -1223,3 +1223,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.16-16.45.03:292][799]LogFileHelpers: Saving map 'GamePlay' took 0.079
 [2020.07.16-16.45.03:303][799]AssetCheck: New page: Asset Save: GamePlay
 [2020.07.16-16.45.03:303][799]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-16.48.32:785][209]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-16.48.32:855][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.07.16-16.48.33:653][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-16.48.33:685][240]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGameD1AB27AD48EB7819D794248AEB567A1A.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-16.48.33:711][240]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-16.48.33:711][240]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-16.48.36:335][351]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.07.16-16.48.36:402][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.07.16-16.48.36:418][351]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay845F249546C16111D1D259880F913E91.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-16.48.36:445][351]LogFileHelpers: Saving map 'GamePlay' took 0.082
+[2020.07.16-16.48.36:461][351]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-16.48.36:461][351]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
+[2020.07.16-16.51.02:807][ 91]LogEditorTransaction: Undo Move Nodes
+[2020.07.16-16.51.03:919][136]LogEditorTransaction: Undo Create Pin Link
+[2020.07.16-16.51.04:758][178]LogEditorTransaction: Undo Create Pin Link
+[2020.07.16-16.52.11:572][ 86]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.16-16.53.08:939][569]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-16.53.09:029][569]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.07.16-16.53.09:812][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-16.53.09:852][598]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGameF17333304A77DC2409561899D71423D3.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-16.53.09:876][598]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-16.53.09:876][598]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-16.54.12:623][881]BlueprintLog: New page: Compile BP_MainGame
+[2020.07.16-16.54.12:699][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.07.16-16.54.13:412][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainGame" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset" SILENT=true
+[2020.07.16-16.54.13:450][918]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/BP_MainGame5D3DBF954C262726A95BCB9DBE0424D2.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/BP_MainGame.uasset'
+[2020.07.16-16.54.13:480][918]AssetCheck: New page: Asset Save: BP_MainGame
+[2020.07.16-16.54.13:480][918]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2020.07.16-16.54.15:954][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.07.16-16.54.16:015][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.07.16-16.54.16:034][ 57]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/GamePlay89D7BD6347488EB27804C388F3604C95.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Maps/GamePlay.umap'
+[2020.07.16-16.54.16:061][ 57]LogFileHelpers: Saving map 'GamePlay' took 0.085
+[2020.07.16-16.54.16:074][ 57]AssetCheck: New page: Asset Save: GamePlay
+[2020.07.16-16.54.16:074][ 57]LogContentValidation: Display: Validating World /Game/Maps/GamePlay.GamePlay
