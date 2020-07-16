@@ -872,3 +872,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.16-09.43.50:489][542]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002260EB0AE00), frame # 18542
 [2020.07.16-09.43.50:493][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
 [2020.07.16-09.43.50:516][543]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.07.16-09.46.25:012][445]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/FoodColor_Enum.FoodColor_Enum
+[2020.07.16-09.47.00:447][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FoodColor_Enum" FILE="E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/FoodColor_Enum.uasset" SILENT=true
+[2020.07.16-09.47.00:454][356]LogSavePackage: Moving 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Saved/FoodColor_Enum7B83D2BA484F2DAE23DB8FBD6ECD4B88.tmp' to 'E:/AwesomeTuts/Unreal-Engine-Tutorial---Create-A-2D-Game-In-Unreal-Engine/Snake2D/Content/Blueprints/FoodColor_Enum.uasset'
+[2020.07.16-09.47.00:471][356]AssetCheck: New page: Asset Save: FoodColor_Enum
+[2020.07.16-09.47.00:471][356]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/FoodColor_Enum.FoodColor_Enum
